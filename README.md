@@ -1,4 +1,3 @@
-# Active-Directory-Practice
 
 # Virtualization of Windows Server 2019 with Oracle VirtualBox  
 
