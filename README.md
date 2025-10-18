@@ -1,6 +1,8 @@
 
 # Virtualization of Windows Server 2019 with Oracle VirtualBox  
 
+**Windows Server 2019** will be virtualized using **Oracle VirtualBox**, which will allow the installation of **Active Directory** and the creation of a **domain** to which other devices in the lab environment can be connected.
+
 ## 1. Download Windows Server 2019  
 - Go to the official Microsoft site: [Windows Server 2019 | Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019?msockid=3d127af2271d6df5282b6e7826a36cf8).  
 - Select the **language** and download the appropriate **ISO** for your system.  
